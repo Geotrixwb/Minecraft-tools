@@ -12,7 +12,7 @@ X_coordinates = float(input("Enter the X coordinates: "))
 Y_coordinates = float(input("Enter the Y coordinates: "))
 Z_coordinates = float(input("Enter the Z coordinates: "))
 
-def noDecimalInYcoord():
+def noDecimalInYcoord():            #Updates will be added later
  pass
 
 
