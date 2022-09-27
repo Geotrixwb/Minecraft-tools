@@ -1,7 +1,7 @@
 import random
 
 
-print("all rights to the owners")
+print("all rights to the owner")
 
 randomSeedGen = random.random()
 print ("seed of the day: " +str(randomSeedGen), "-"+str(randomSeedGen))
